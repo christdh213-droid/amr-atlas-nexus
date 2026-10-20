@@ -62,8 +62,8 @@ AMR Atlas is a research support tool, not a clinical diagnostic test or antibiot
 
 ## 4. Live Demo & Visuals
 
-- **Live Deployment Link**: https://amr-atlas.pages.dev/
-- **Repository**: https://github.com/example/amr-atlas
+- **Live Deployment Link**: [https://amr-atlas-nexus.vercel.app](https://amr-atlas-nexus.vercel.app)
+- **Repository**: [https://github.com/christdh213-droid/amr-atlas-nexus](https://github.com/christdh213-droid/amr-atlas-nexus)
 
 ### Application Preview
 
