@@ -1,0 +1,130 @@
+[
+  {
+    "isolate_id": "DEMO-KP-001",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "India: Chennai",
+    "collection_date": "2024-08",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaNDM-1", "blaCTX-M-15", "blaOXA-48", "aac(6')-Ib-cr5", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-EC-002",
+    "organism_name": "Escherichia coli",
+    "collection_location": "India: Vellore",
+    "collection_date": "2024-09",
+    "susceptibility_result": "Multi-Drug Resistant (Modeled)",
+    "genes": ["blaNDM-1", "blaCTX-M-15", "mcr-1.1", "qnrS1", "tet(A)", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-KP-003",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "USA: California",
+    "collection_date": "2024-05",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaKPC-2", "blaTEM-1", "blaSHV-12", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-KP-004",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "UK: London",
+    "collection_date": "2024-06",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaOXA-48", "blaCTX-M-15", "qnrS1"]
+  },
+  {
+    "isolate_id": "DEMO-EC-005",
+    "organism_name": "Escherichia coli",
+    "collection_location": "India: Mumbai",
+    "collection_date": "2024-07",
+    "susceptibility_result": "ESBL-Phenotype (Modeled)",
+    "genes": ["blaCTX-M-15", "blaTEM-1", "tet(A)", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-EC-006",
+    "organism_name": "Escherichia coli",
+    "collection_location": "Brazil: Sao Paulo",
+    "collection_date": "2024-04",
+    "susceptibility_result": "Not Tested",
+    "genes": ["mcr-1.1", "blaTEM-1", "tet(A)"]
+  },
+  {
+    "isolate_id": "DEMO-KP-007",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "Germany: Berlin",
+    "collection_date": "2024-03",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaNDM-1", "blaSHV-12", "aac(6')-Ib-cr5"]
+  },
+  {
+    "isolate_id": "DEMO-EC-008",
+    "organism_name": "Escherichia coli",
+    "collection_location": "USA: New York",
+    "collection_date": "2024-06",
+    "susceptibility_result": "Susceptible (Modeled)",
+    "genes": []
+  },
+  {
+    "isolate_id": "DEMO-KP-009",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "India: New Delhi",
+    "collection_date": "2024-08",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaNDM-1", "blaOXA-48", "blaCTX-M-15", "aac(6')-Ib-cr5", "qnrS1", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-EC-010",
+    "organism_name": "Escherichia coli",
+    "collection_location": "Japan: Tokyo",
+    "collection_date": "2024-02",
+    "susceptibility_result": "Not Tested",
+    "genes": ["blaCTX-M-15", "aac(6')-Ib-cr5", "qnrS1"]
+  },
+  {
+    "isolate_id": "DEMO-KP-011",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "South Africa: Cape Town",
+    "collection_date": "2024-05",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaOXA-48", "blaSHV-12", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-EC-012",
+    "organism_name": "Escherichia coli",
+    "collection_location": "Australia: Sydney",
+    "collection_date": "2024-07",
+    "susceptibility_result": "Quinolone-Resistant (Modeled)",
+    "genes": ["qnrS1", "tet(A)", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-KP-013",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "USA: Texas",
+    "collection_date": "2024-04",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaKPC-2", "blaCTX-M-15", "aac(6')-Ib-cr5"]
+  },
+  {
+    "isolate_id": "DEMO-EC-014",
+    "organism_name": "Escherichia coli",
+    "collection_location": "India: Bengaluru",
+    "collection_date": "2024-09",
+    "susceptibility_result": "Colistin-Resistant (Modeled)",
+    "genes": ["mcr-1.1", "blaCTX-M-15", "sul1"]
+  },
+  {
+    "isolate_id": "DEMO-KP-015",
+    "organism_name": "Klebsiella pneumoniae",
+    "collection_location": "Italy: Milan",
+    "collection_date": "2024-03",
+    "susceptibility_result": "Carbapenem-Resistant (Modeled)",
+    "genes": ["blaKPC-2", "blaSHV-12", "tet(A)"]
+  },
+  {
+    "isolate_id": "DEMO-EC-016",
+    "organism_name": "Escherichia coli",
+    "collection_location": "Canada: Toronto",
+    "collection_date": "2024-01",
+    "susceptibility_result": "Not Tested",
+    "genes": ["blaTEM-1", "tet(A)"]
+  }
+]

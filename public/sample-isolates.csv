@@ -1,0 +1,24 @@
+isolate_id,organism_name,collection_location,collection_date,susceptibility_result,gene_symbol,gene_class,element_type,source_accession,source_url
+SAM-001,Klebsiella pneumoniae,India: Chennai,2024-05,Carbapenem-Resistant,blaNDM-1,BETA-LACTAM,AMR,NG_049326.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_049326.1
+SAM-001,Klebsiella pneumoniae,India: Chennai,2024-05,Carbapenem-Resistant,blaCTX-M-15,BETA-LACTAM,AMR,NG_048935.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048935.1
+SAM-001,Klebsiella pneumoniae,India: Chennai,2024-05,Carbapenem-Resistant,sul1,SULFONAMIDE,AMR,NG_048082.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048082.1
+SAM-001,Klebsiella pneumoniae,India: Chennai,2024-05,Carbapenem-Resistant,qacEdelta1,DISINFECTANT,STRESS,NG_048042.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048042.1
+SAM-002,Escherichia coli,India: Vellore,2024-06,Multi-Drug Resistant," BLANDM-1 ",BETA-LACTAM,AMR,NG_049326.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_049326.1
+SAM-002,Escherichia coli,India: Vellore,2024-06,Multi-Drug Resistant,blaNDM-1,BETA-LACTAM,AMR,NG_049326.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_049326.1
+SAM-002,Escherichia coli,India: Vellore,2024-06,Multi-Drug Resistant,blaCTX-M-15,BETA-LACTAM,AMR,NG_048935.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048935.1
+SAM-002,Escherichia coli,India: Vellore,2024-06,Multi-Drug Resistant,mcr-1.1,COLISTIN,AMR,NG_050417.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_050417.1
+SAM-002,Escherichia coli,India: Vellore,2024-06,Multi-Drug Resistant,qnrS1,QUINOLONE,AMR,NG_050543.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_050543.1
+SAM-003,Klebsiella pneumoniae,USA: California,2024-04,Carbapenem-Resistant,blaKPC-2,BETA-LACTAM,AMR,NG_049253.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_049253.1
+SAM-003,Klebsiella pneumoniae,USA: California,2024-04,Carbapenem-Resistant,blaSHV-12,BETA-LACTAM,AMR,NG_049956.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_049956.1
+SAM-003,Klebsiella pneumoniae,USA: California,2024-04,Carbapenem-Resistant,sul1,SULFONAMIDE,AMR,NG_048082.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048082.1
+SAM-004,Escherichia coli,USA: New York,2024-03,Susceptible,,,AMR,,
+SAM-005,Acinetobacter baumannii,,2024-02,MDR,blaOXA-23,BETA-LACTAM,AMR,NG_049497.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_049497.1
+SAM-005,Acinetobacter baumannii,,2024-02,MDR,armA,AMINOGLYCOSIDE,AMR,NG_047537.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_047537.1
+SAM-006,Pseudomonas aeruginosa,UK: London,2024-01,Carbapenem-Resistant,blaVIM-2,BETA-LACTAM,AMR,,
+SAM-006,Pseudomonas aeruginosa,UK: London,2024-01,Carbapenem-Resistant,blaPAO,BETA-LACTAM,AMR,NG_050100.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_050100.1
+SAM-007,Salmonella enterica,Brazil: Sao Paulo,2024-05,,tet(A),TETRACYCLINE,AMR,NG_048195.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048195.1
+SAM-007,Salmonella enterica,Brazil: Sao Paulo,2024-05,,blaTEM-1,BETA-LACTAM,AMR,NG_050145.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_050145.1
+SAM-007,Salmonella enterica,Brazil: Sao Paulo,2024-05,,sul1,SULFONAMIDE,AMR,NG_048082.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048082.1
+SAM-008,Enterobacter cloacae,Germany: Berlin,2024-07,Third-Gen Cephalosporin Resistant,blaACT-1,BETA-LACTAM,AMR,NG_048700.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_048700.1
+SAM-008,Enterobacter cloacae,Germany: Berlin,2024-07,Third-Gen Cephalosporin Resistant,qnrS1,QUINOLONE,AMR,NG_050543.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_050543.1
+SAM-008,Enterobacter cloacae,Germany: Berlin,2024-07,Third-Gen Cephalosporin Resistant,aac(6')-Ib-cr5,AMINOGLYCOSIDE/QUINOLONE,AMR,NG_051497.1,https://www.ncbi.nlm.nih.gov/nuccore/NG_051497.1
